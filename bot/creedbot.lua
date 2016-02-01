@@ -242,7 +242,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {179983320},--Sudo users
+    sudo_users = {127771851},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -253,7 +253,7 @@ function create_config( )
     ‼️ this bot is made by: @unkownhacker
    〰〰〰〰〰〰〰〰
    ߔࠀ   our sudo are : 
-   ߔࠀ   @unkownhacker
+   ߔࠀ   @tanha_eshgam_donya 
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
    !feedback (your ideas and messages)
